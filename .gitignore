@@ -1,0 +1,11 @@
+.idea
+.idea/
+.DS_Store
+node_modules/
+.project
+dist
+dist/*
+src/assets/config/*.tmp
+src/assets/config/env.js
+/index.html
+/index_prod.html
